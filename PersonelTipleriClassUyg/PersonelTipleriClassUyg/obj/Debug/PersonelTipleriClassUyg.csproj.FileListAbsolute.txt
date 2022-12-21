@@ -1,0 +1,11 @@
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\bin\Debug\PersonelTipleriClassUyg.exe.config
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\bin\Debug\PersonelTipleriClassUyg.exe
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\bin\Debug\PersonelTipleriClassUyg.pdb
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.csproj.AssemblyReference.cache
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.csproj.SuggestedBindingRedirects.cache
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.Form1.resources
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.Properties.Resources.resources
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.csproj.GenerateResource.cache
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.csproj.CoreCompileInputs.cache
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.exe
+D:\KursIskur\PersonelTipleriClassUyg\PersonelTipleriClassUyg\obj\Debug\PersonelTipleriClassUyg.pdb
